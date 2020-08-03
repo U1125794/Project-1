@@ -1,0 +1,12 @@
+Student Name:Girish Kumar Reddy Valluru
+Student Number:17684
+
+
+Details:
+Functionality Planned for all users (public): The all user functionality plan describe the user of the website where all user can able to access the website and they are able to register into the website. The user can access to view the differnt blog, books, and different pages as per thier requirement.The user can also search what information they want to know from the website.The user can access the shopping cart page through this website. 
+
+Functionality planned for registered user only: It means the user can able to register into the system but their accessing level will be increased such as the user who is register into the website can able to comment in the books which they are loved as well as they are also able to contact with the company through contact pages. But who is not registered into the website, they are unable to comment in the books and unable to contact through contact form which is availble in contact page.
+
+Functionality Plan for Simple Search: The simple search give all access where user can able to do simple search without choosing any select option which is available in the search box. So, the search title show all related thing which is matching with the search keyboard.
+
+Functionality Plan for Complex Search: But in complex search option, the user can able to choose the select option which can give the actual result as well as the user requirement. The complex search option show the user can able to search into the website which is more related to thier search keyword and only give the actual search option reslut in the search option.The search option like authors, books, genre, isbn, and publisher
